@@ -6,5 +6,7 @@ public class TestModel {
 		
 		Model model = new Model();
 		System.out.println(model.getNercList());
-	}
+		/*Nerc n= new Nerc(1, "ERCOT");
+		System.out.println(model.getB(3, 20, n));*/
+	} 
 }
